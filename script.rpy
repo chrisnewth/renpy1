@@ -47,7 +47,7 @@ menu:
 
 
 menu:
-     "What should I do?"
+     "What should I do (testing commits)?"
 
      "Drink coffee.":
          "I drink the coffee, and it's good to the last drop, but I sense it was the wrong choice."
